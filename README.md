@@ -1,3 +1,6 @@
+![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/MagiskEoP/total)
+
+
 ## Introduction
 This is an exploit for a vulnerability in Magisk app that allows a local app to silently gain root access without user consent. 
 
